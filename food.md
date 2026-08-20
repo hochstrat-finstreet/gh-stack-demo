@@ -17,7 +17,6 @@
 - Mozzarella
 - Cream cheese
 - Milk
-- Yoghurt
 
 ## 🥩 Meat & Fish
 - Chicken breast
