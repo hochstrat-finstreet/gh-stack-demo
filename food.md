@@ -4,7 +4,6 @@
 - Broccoli
 - Cherry tomatoes
 - Spinach
-- Red bell peppers
 - Cucumber
 - Lettuce
 - Olives
@@ -17,7 +16,6 @@
 - Butter
 - Mozzarella
 - Cream cheese
-- Sour cream
 - Milk
 - Yoghurt
 
@@ -29,3 +27,4 @@
 - Tomahawk steak
 - Chicken wings
 - Chicken nuggets
+- Pork loin
