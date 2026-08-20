@@ -6,8 +6,6 @@
 - Spinach
 - Cucumber
 - Lettuce
-- Olives
-- Spinach
 - Tomatoes
 - Parsnip
 
@@ -20,8 +18,6 @@
 
 ## 🥩 Meat & Fish
 - Chicken breast
-- Salmon fillet
-- Ground beef
 - Shrimp
 - Tomahawk steak
 - Chicken wings
