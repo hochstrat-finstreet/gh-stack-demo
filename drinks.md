@@ -1,3 +1,5 @@
 # 🍺 Drinks
 
 - Beer
+- Wine
+- Water
