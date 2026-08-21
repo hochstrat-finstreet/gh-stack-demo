@@ -27,4 +27,4 @@
 - Tomahawk steak
 - Chicken wings
 - Chicken nuggets
-- Pork loin
+- Pork loin x2
